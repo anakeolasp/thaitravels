@@ -24,9 +24,10 @@
         letter-spacing: .3px;
         width: 80vw;
         min-height: 100vh;
-        border: 10px double #E2A9F1;
+        border: 10px double lightblue;
         background-color: #000000;
-        color:#eccfe1;
+        color: navy;
+        font-weight: 700;
     }
 
     .music li {
@@ -34,7 +35,7 @@
     }
 
     .music h5 {
-        color:#E2A9F1;
+        color: orange;
     }
 
     figcaption {
